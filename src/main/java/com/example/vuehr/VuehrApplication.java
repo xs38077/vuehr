@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cache.annotation.EnableCaching;
 
 /**
- * branch: master v0.6
+ * branch: master v0.7    ----merge 合并分支处理
  */
 @SpringBootApplication
 @EnableCaching
